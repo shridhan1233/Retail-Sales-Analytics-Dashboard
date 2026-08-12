@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+<img width="1641" height="958" alt="dashboard2" src="https://github.com/user-attachments/assets/04207b7b-dc49-439d-a696-42106901e945" />
+
 
 Dataset
    ↓
@@ -14,7 +15,8 @@ Power BI Dashboard
    ↓
 Business Insights
 
-<img width="1536" height="1024" alt="334a0182-adbf-42b0-a601-7c448b3b162b" src="https://github.com/user-attachments/assets/14150986-460e-4e27-b8c1-1b5c2a8079c5" />
+<img width="1641" height="958" alt="dashboard2" src="https://github.com/user-attachments/assets/65503083-9ff8-4e7c-9295-dcffeb3a2188" />
+
 # Retail-Sales-Analytics-Dashboard
 
 # Retail Sales Analytics Dashboard
