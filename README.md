@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-<img width="1641" height="958" alt="dashboard2" src="https://github.com/user-attachments/assets/04207b7b-dc49-439d-a696-42106901e945" />
 
 
 Dataset
